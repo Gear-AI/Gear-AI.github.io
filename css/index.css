@@ -1,0 +1,60 @@
+body
+    {
+        background-color:black;
+    }
+.top-navigation-bar
+    {
+        position: absolute;
+        left: 0%;
+        width: 100%;
+        top: 9.5%;
+        background-color: rgb(7, 0, 26);
+    }
+
+.top-navigation-bar a 
+    {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration:underline;
+        font-size: 17px;
+    }
+
+.top-navigation-bar a:hover
+    {
+        background-color:rgb(91, 41, 209);
+        color: #E0E0E0;
+    }
+
+.top-navigation-bar a.active 
+    {
+        background-color:rgba(91, 41, 209, 0.945);
+        color:#E0E0E0;
+    }
+        
+.org-name
+    {
+        position: absolute;
+        padding: 10px 10px 0px 10px; 
+        background-color:rgb(5, 0, 19);
+        left: 0%;
+        top: 0%; 
+        width: 98.5%;
+        height: 60px;
+        color:rgb(253, 227, 196);
+        text-align: center;
+    }
+                
+footer
+    {
+        position: absolute; 
+        padding: 10px 10px 0px 10px; 
+        left: 0;
+        bottom: 0; 
+        width: 98.5%;
+        height: 30px; 
+        color:#202020;
+        background:rgba(181, 157, 231, 0.897); 
+    }
+        
