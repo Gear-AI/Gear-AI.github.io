@@ -24,13 +24,13 @@ body
 .top-navigation-bar a:hover
     {
         background-color:rgb(17, 17, 17);
-        color: #E0E0E0;
+        color: rgb(228, 211, 192);
     }
 
 .top-navigation-bar a.active 
     {
         background-color:rgb(15, 15, 15);
-        color:#E0E0E0;
+        color: rgb(228, 211, 192);
     }
         
 .org-name
