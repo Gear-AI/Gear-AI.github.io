@@ -19,18 +19,21 @@ body
         padding: 14px 16px;
         text-decoration:underline;
         font-size: 18px;
+        font-family:'Segoe UI'
     }
 
 .top-navigation-bar a:hover
     {
         background-color:rgb(17, 17, 17);
         color: rgb(228, 211, 192);
+        font-family:'Segoe UI'
     }
 
 .top-navigation-bar a.active 
     {
         background-color:rgb(15, 15, 15);
         color: rgb(228, 211, 192);
+        font-family:'Segoe UI'
     }
         
 .org-name
@@ -45,6 +48,7 @@ body
         color: bisque;
         text-align: center;
         font-size: 17px;
+        font-family:'Segoe UI'
     }
                 
 footer
@@ -56,6 +60,7 @@ footer
         width: 98.5%;
         height: 30px; 
         color:#202020;
-        background:rgba(181, 157, 231, 0.897); 
+        background:rgba(181, 157, 231, 0.897);
+        font-family:'Segoe UI'
     }
         
