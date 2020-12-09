@@ -24,15 +24,15 @@ body
 
 .top-navigation-bar a:hover
     {
-        background-color:rgb(17, 17, 17);
-        color: rgb(228, 211, 192);
+        background-color:rgb(31, 27, 27);
+        color: seashell;
         font-family:'Segoe UI'
     }
 
 .top-navigation-bar a.active 
     {
-        background-color:rgb(15, 15, 15);
-        color: rgb(228, 211, 192);
+        background-color:rgb(25, 25, 25);
+        color: seashell;
         font-family:'Segoe UI'
     }
         
@@ -45,7 +45,7 @@ body
         top: 0%; 
         width: 98.5%;
         height: 60px;
-        color: bisque;
+        color: rgb(231, 210, 183);
         text-align: center;
         font-size: 17px;
         font-family:'Segoe UI'
