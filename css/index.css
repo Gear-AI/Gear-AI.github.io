@@ -1,6 +1,6 @@
 body
     {
-        background-color:rgb(17, 17, 17);
+        background-color:rgb(31, 27, 27);
     }
 .top-navigation-bar
     {
@@ -59,8 +59,8 @@ footer
         bottom: 0; 
         width: 98.5%;
         height: 30px; 
-        color:#202020;
-        background:rgba(181, 157, 231, 0.897);
+        color:#030303;
+        background: rgb(117, 120, 124)  ;
         font-family:'Segoe UI'
     }
         
