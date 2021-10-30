@@ -19,21 +19,21 @@ body
         padding: 14px 16px;
         text-decoration:underline;
         font-size: 18px;
-        font-family:'Segoe UI'
+        font-family:'Open Sans'
     }
 
 .top-navigation-bar a:hover
     {
         background-color:rgb(31, 27, 27);
         color: seashell;
-        font-family:'Segoe UI'
+        font-family:'Open Sans'
     }
 
 .top-navigation-bar a.active 
     {
         background-color:rgb(25, 25, 25);
         color: seashell;
-        font-family:'Segoe UI'
+        font-family:'Open Sans'
     }
         
 .org-name
@@ -48,7 +48,7 @@ body
         color: rgb(231, 210, 183);
         text-align: center;
         font-size: 17px;
-        font-family:'Segoe UI'
+        font-family:'Open Sans'
     }
 
 .fa 
@@ -78,6 +78,6 @@ body
         height: 30px; 
         color:#030303;
         background: rgb(117, 120, 124)  ;
-        font-family:'Segoe UI'
+        font-family:'Open Sans'
     }
         
