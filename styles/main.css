@@ -8,8 +8,8 @@ body {
 .header {
     overflow: hidden;
     background-color: #2f2f2f;
-    padding: 20px 10px;
-    border-radius: 20px;
+    padding: 16px 10px;
+    border-radius: 10px;
     opacity: 1;
   }
   /* Style the header links */
@@ -135,4 +135,55 @@ body {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.headertext{
+  color: white;
+  font-size: 30px;
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.subtext{
+  color:white;
+  font-size: 18px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  text-align: center;
+}
+
+.learnmore {
+  background-color: #f1f1f1; /* Green */
+  border: none;
+  color: black;
+  padding: 17px 36px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 12px;
+}
+
+.learnmore:hover{
+  background-color: #4f4f4f;
+  color: black;
+}
+
+hr{
+  border: 1px solid #f1f1f1;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom:5%;
+}
+
+.footer{
+  background-color: #2f2f2f;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
