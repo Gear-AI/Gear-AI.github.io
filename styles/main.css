@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Red Hat Display:n,b,bi,900');
+@import url('https://fonts.googleapis.com/css?family=Roboto-Mono');
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #d1d1d1;
+    padding: 20px 10px;
+    border-radius: 20px;
+    opacity: 0.8;
+  }
+  /* Style the header links */
+  .header a {
+    float: left;
+    color:#F5F5DC;
+    text-align: center;
+    padding: 3px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 22px;
+  
+  }
+  
+  .header a.logo {
+    font-size: 30px;
+    font-weight: 900;
+    padding-left: 5%;
+    color: teal;
+  }
+  
+  .header a:hover {
+    background-color: #b1b1b1;
+    color:teal;
+  }
+  
+  .header a.active {
+    background-color: teal;
+    color: white;
+    border-radius: 10%;
+  }
+
+  .header a.inactive{
+    background-color: #d1d1d1;
+    color: teal;
+    border-radius: 5%;
+  }
+  
+  .header-right {
+    float: right;
+    padding-right: 2%;
+    border-radius: 5%;
+    color: black
+
+  }
